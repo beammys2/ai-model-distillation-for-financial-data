@@ -1,0 +1,6 @@
+dependencies:
+- name: nemo-microservices-helm-chart
+  repository: https://helm.ngc.nvidia.com/nvidia/nemo-microservices
+  version: 25.8.0
+digest: sha256:7a78ebffe15399604f9c1d9f7e75f4001e51ffa1a6bade90afa9d9de0be194d2
+generated: "2025-09-26T08:40:56.139726682Z"
